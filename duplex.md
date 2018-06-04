@@ -74,7 +74,7 @@ date:
 
 # Què és Google Duplex
 
-Nova una nova tecnologia que presenta Google dins del seu projecte de Google Assistant
+És una nova tecnologia que presenta Google dins del seu projecte de Google Assistant
 
 Va ser presentat a la Google I/O 2018
 
@@ -102,9 +102,21 @@ Va ser presentat a la Google I/O 2018
 
 \includegraphics[height=0.55\textheight]{Turing_test_diagram.png}
 
-<!---------------------->
-<!---PART VICTOR AQUI--->
-<!---------------------->
+# Riscs i Beneficis
+
+1. Riscs i beneficis per a l'empresa
+
+\includegraphics[width=1\textwidth]{shares.png}
+
+2. Riscs i beneficis per a l'usuari
+
+# Repercussió a la societat
+
+1. Evitar aquest tipus de tasques
+\newline
+2. Pèrdua de contacte humà?
+\newline
+3. Debat ètic
 
 # El futur del projecte
 
@@ -122,8 +134,8 @@ Va ser presentat a la Google I/O 2018
 
     \column{.6\textwidth}
         \includegraphics[height=0.65\textheight]{androide.jpg}
-\end{columns}
 
+\end{columns}
 # Conclusions
 
 + Millores importants en el camp
