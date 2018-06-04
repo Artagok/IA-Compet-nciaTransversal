@@ -1,4 +1,4 @@
-#IA-CompetènciaTransversal
+# IA-CompetènciaTransversal
 
 ## 2017/2018 Q2
 
